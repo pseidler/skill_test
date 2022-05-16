@@ -11,6 +11,8 @@ There are three main requirements for this service and one optional.
 3. Show a proper, coherent testing approach; you can use mocks, it can but does not have to be full TDD
 4. Optional: Containerisation
 
+Non-functional requirement: Handle large amounts of data
+
 Some more help:
 
 1. Use a professional approach of planning, design, implementation, document it (README please), and show in running tests/benchmarks that your solution does what it should. There is no right or wrong here, but be prepared to comment on and argue for the choices that you have made.
