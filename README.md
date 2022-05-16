@@ -2,7 +2,7 @@
 
 The aim of our solution is to create an API service as a gateway to ingest a lot of data fast into some broker.
 
-We start very simple. We create a basic version of an API service that enables a customer or integrator to quickly send data to a custom endpoint. The service handles the call and forwards it to a broker, again be Azure Eventhub. The destination broker is specified as a field in the message. 
+We start very simple. We create a basic version of an API service that enables a customer or integrator to quickly send data to a custom endpoint. The service handles the call and forwards it to a broker, for example to Azure Eventhub. The destination broker is specified as a field in the message. 
 
 There are three main requirements for this service and one optional.
 
